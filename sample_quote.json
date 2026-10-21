@@ -1,0 +1,26 @@
+{
+  "title": "激光打标机报价单",
+  "seller": "某某智能装备有限公司",
+  "buyer": "某某制造有限公司",
+  "contact": "张工",
+  "discount_rate": 0.05,
+  "tax_rate": 0.13,
+  "freight": 800,
+  "validity_days": 15,
+  "items": [
+    {
+      "name": "光纤激光打标机",
+      "spec": "30W",
+      "unit": "台",
+      "quantity": 1,
+      "unit_price": 28000
+    },
+    {
+      "name": "旋转夹具",
+      "spec": "D80",
+      "unit": "套",
+      "quantity": 1,
+      "unit_price": 1500
+    }
+  ]
+}
